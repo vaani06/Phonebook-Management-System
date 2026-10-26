@@ -232,7 +232,7 @@ http://localhost/phonebook/
 ## 👥 Team Members
 
 - Vaani Pawan Khajuria
-- Tanishh Suryavanshi
+- Tanishh Sameer Suryavanshi 
 
 ---
 
